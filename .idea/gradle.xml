@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption/task" />
+            <option value="$PROJECT_DIR$/Problems/Assignments" />
+            <option value="$PROJECT_DIR$/Problems/Boys in a sport class" />
+            <option value="$PROJECT_DIR$/Problems/Burger store" />
+            <option value="$PROJECT_DIR$/Problems/Check the value" />
+            <option value="$PROJECT_DIR$/Problems/Clock factory" />
+            <option value="$PROJECT_DIR$/Problems/Clocks" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers" />
+            <option value="$PROJECT_DIR$/Problems/Compression algorithm" />
+            <option value="$PROJECT_DIR$/Problems/Convert a date" />
+            <option value="$PROJECT_DIR$/Problems/Create a euphonious word" />
+            <option value="$PROJECT_DIR$/Problems/Cutting out the middle of a string" />
+            <option value="$PROJECT_DIR$/Problems/Double characters" />
+            <option value="$PROJECT_DIR$/Problems/Find the first occurrence of the word &quot;the&quot;" />
+            <option value="$PROJECT_DIR$/Problems/Generating passwords" />
+            <option value="$PROJECT_DIR$/Problems/Good rest on vacation" />
+            <option value="$PROJECT_DIR$/Problems/Guest list of a hotel" />
+            <option value="$PROJECT_DIR$/Problems/Initializing an array of integers" />
+            <option value="$PROJECT_DIR$/Problems/IntBinaryOperation" />
+            <option value="$PROJECT_DIR$/Problems/Javadoc comment" />
+            <option value="$PROJECT_DIR$/Problems/Laptop store" />
+            <option value="$PROJECT_DIR$/Problems/Lucky number" />
+            <option value="$PROJECT_DIR$/Problems/Max and Min" />
+            <option value="$PROJECT_DIR$/Problems/Motor static factory" />
+            <option value="$PROJECT_DIR$/Problems/Motors" />
+            <option value="$PROJECT_DIR$/Problems/Move the first N characters" />
+            <option value="$PROJECT_DIR$/Problems/Number of occurrences" />
+            <option value="$PROJECT_DIR$/Problems/Palindrome" />
+            <option value="$PROJECT_DIR$/Problems/Parse url" />
+            <option value="$PROJECT_DIR$/Problems/Pick your team" />
+            <option value="$PROJECT_DIR$/Problems/Piece of alphabet" />
+            <option value="$PROJECT_DIR$/Problems/Representing time as a class" />
+            <option value="$PROJECT_DIR$/Problems/Robot" />
+            <option value="$PROJECT_DIR$/Problems/Robot factory" />
+            <option value="$PROJECT_DIR$/Problems/Shape hierarchy" />
+            <option value="$PROJECT_DIR$/Problems/Static factory methods for Time" />
+            <option value="$PROJECT_DIR$/Problems/Template Method" />
+            <option value="$PROJECT_DIR$/Problems/Template Method (1)" />
+            <option value="$PROJECT_DIR$/Problems/The longest word" />
+            <option value="$PROJECT_DIR$/Problems/The lucky ticket" />
+            <option value="$PROJECT_DIR$/Problems/The percentage of G and C characters" />
+            <option value="$PROJECT_DIR$/Problems/The sequence" />
+            <option value="$PROJECT_DIR$/Problems/Triangle" />
+            <option value="$PROJECT_DIR$/Problems/Two numbers never occur to each other" />
+            <option value="$PROJECT_DIR$/Problems/Users and WebSites" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
